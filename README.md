@@ -70,6 +70,6 @@ git push -u origin main
 
 ## Notes
 
--  Docker Image on Docker Hub Link :https://hub.docker.com/r/khadijaxx/bd-a1-image
--  GitHub repositrey :https://github.com/KHADIJA2509/Data-Analysis-using-Docker-bd-a1
+-  Docker Image on Docker Hub Link: https://hub.docker.com/r/khadijaxx/bd-a1-image
+-  GitHub repository: https://github.com/KHADIJA2509/Data-Analysis-using-Docker-bd-a1
 
